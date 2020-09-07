@@ -1,0 +1,37 @@
+body {
+    background-color: #eaf6f6;
+  }
+
+  hr {
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 7px;
+    border-color: grey;
+    /* border-top-right-radius: 2%; */
+    height: 15px;
+    width: 7%;
+  }
+  a:-webkit-any-link{
+    text-decoration-line: none;
+    color:#4b5d67;
+  }
+  h1:hover{
+    color: #64958f;
+  }
+  h1{
+      color: #24a19c;
+  }
+  h2{
+    color: #66BFBF;
+  }
+  p{
+    color: #4b5d67;
+  }
+  th{
+    color:#4b5d67;
+  }
+  .Okabe{
+    background-color: #24a19c;
+    border-radius: 152%;
+  }
